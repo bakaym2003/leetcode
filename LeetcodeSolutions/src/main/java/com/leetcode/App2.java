@@ -1,7 +1,7 @@
 package com.leetcode;
 
 public class App2 {
-    public class App
+    public static class App
     {
         public static void main( String[] args )
         {
